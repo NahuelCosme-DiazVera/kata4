@@ -4,10 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="f4dabd40-4d4d-4871-bac3-5f8fe2c63059" name="Changes" comment="Database added">
-      <change afterPath="$PROJECT_DIR$/hw_25000.db" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/Person.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    <list default="true" id="f4dabd40-4d4d-4871-bac3-5f8fe2c63059" name="Changes" comment="Interface PersonLoader created">
+      <change afterPath="$PROJECT_DIR$/src/main/java/SqlitePersonLoader.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -20,9 +18,9 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
+        <option value="Record" />
         <option value="Interface" />
         <option value="Class" />
-        <option value="Record" />
       </list>
     </option>
   </component>
@@ -72,7 +70,21 @@
       <option name="project" value="LOCAL" />
       <updated>1701023082326</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="Record Person created">
+      <created>1701523053964</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1701523053964</updated>
+    </task>
+    <task id="LOCAL-00003" summary="Interface PersonLoader created">
+      <created>1701523095814</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1701523095814</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -89,6 +101,8 @@
   <component name="VcsManagerConfiguration">
     <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
     <MESSAGE value="Database added" />
-    <option name="LAST_COMMIT_MESSAGE" value="Database added" />
+    <MESSAGE value="Record Person created" />
+    <MESSAGE value="Interface PersonLoader created" />
+    <option name="LAST_COMMIT_MESSAGE" value="Interface PersonLoader created" />
   </component>
 </project>
